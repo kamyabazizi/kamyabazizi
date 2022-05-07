@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1725523/screenshots/3619355/hey-there_dribbble.gif" width="250"/>
+  <img src="https://github.com/kamyabazizi/kamyabazizi.github.io/blob/main/images/hey-there_dribbble.gif" width="250"/>
   <p> <b>I'm Kamyab, Welcome to my GitHub profile</b>
   </p> 
     <p>
